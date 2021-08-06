@@ -1,0 +1,33 @@
+Keywords,Date and Time,Source,Event ID,Task Category
+Audit Failure,7/29/2020 1:14:33 AM,Microsoft-Windows-Security-Auditing,4625,Logon,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		DFI-FILE-001$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		DFI-FILE-001\MandyAcct
+	Account Name:		MandyAcct
+	Account Domain:		DFI-FILE-001
+
+Process Information:
+	Process ID:		0xebc
+	Process Name:		C:\Windows\System32\wbem\WmiPrvSE.exe"
+Audit Failure,7/29/2020 1:14:34 AM,Microsoft-Windows-Security-Auditing,4625,Logon,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		DFI-FILE-001$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		DFI-FILE-001\PamOps
+	Account Name:		PamOps
+	Account Domain:		DFI-FILE-001
+
+Process Information:
+	Process ID:		0xebc
+	Process Name:		C:\Windows\System32\wbem\WmiPrvSE.exe"
